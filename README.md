@@ -38,4 +38,4 @@ Dans le projet, l’écran d’accueil est affiché depuis App.js via le composa
 
 **Date :** Janvier 2026
 
-**Encadré par :** Pr.Mohamed LACHGHAR
+**Encadré par :** Pr.Mohamed LACHGAR
